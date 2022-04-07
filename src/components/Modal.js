@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import CloseIcon from '../assets/svg/CloseIcon';
+import CloseIcon from '../assets/CloseIcon';
 
 const Modal = ({ isOpen, isEdit, closeModal }) => {
   const [value, setValue] = useState({

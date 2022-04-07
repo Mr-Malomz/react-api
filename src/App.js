@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import UserIcon from './assets/svg/UserIcon';
+import UserIcon from './assets/UserIcon';
 import Modal from './components/Modal';
 
 function App() {
